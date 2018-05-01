@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/luchsamapparat/cfha-lib.git
+[submodule "client"]
+	path = client
+	url = https://github.com/luchsamapparat/cfha-client.git
