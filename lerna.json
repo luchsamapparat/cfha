@@ -2,7 +2,8 @@
   "lerna": "2.11.0",
   "packages": [
     "client",
-    "lib"
+    "lib",
+    "ngx-hypermedia-client/dist/ngx-hypermedia-client"
   ],
   "version": "independent",
   "command": {

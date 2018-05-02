@@ -1,0 +1,20 @@
+0 silly input [ '@luchsamapparat/ngx-hypermedia-client' ]
+1 silly flags { _: [ 'add' ],
+1 silly flags   'reject-cycles': false,
+1 silly flags   rejectCycles: false,
+1 silly flags   dev: false,
+1 silly flags   D: false,
+1 silly flags   scope: '@luchsamapparat/cfha-client',
+1 silly flags   args: [ '@luchsamapparat/ngx-hypermedia-client' ] }
+2 verbose rootPath C:\Users\Marvin\Projekte\cfha
+3 info version 2.11.0
+4 silly isInitialized
+5 silly isInitialized true
+6 silly existsSync C:\Users\Marvin\Projekte\cfha\VERSION
+7 info versioning independent
+8 info scope @luchsamapparat/cfha-client
+9 silly initialize attempt
+10 error initialize callback with error
+11 error Error: Package `@luchsamapparat/ngx-hypermedia-client` doesn't exist
+11 error     at got.then.catch.err (C:\Users\Marvin\AppData\Roaming\npm\node_modules\lerna\node_modules\package-json\index.js:62:11)
+11 error     at <anonymous>

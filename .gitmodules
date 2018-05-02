@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/luchsamapparat/cfha-client.git
+[submodule "ngx-hypermedia-client"]
+	path = ngx-hypermedia-client
+	url = https://github.com/luchsamapparat/ngx-hypermedia-client.git
